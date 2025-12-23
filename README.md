@@ -48,6 +48,10 @@ CodeAlpha_FAQ_Chatbot/
 │
 └── static/
 └── style.css
+│
+└── screenshots/
+    ├── ui_home.png
+    ├── ui_chat.png
 
 yaml
 Copy code
